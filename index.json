@@ -1,0 +1,11 @@
+{
+  "org": "jupyter",
+  "repo": "nbviewer.org-deploy",
+  "versions": [
+    {
+      "commit": "46d27d053886a4ed2e2ee70b3abc754858476cdd",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:11:42.697115+00:00"
+    }
+  ]
+}
